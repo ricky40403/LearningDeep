@@ -15,8 +15,10 @@ a simple learning calculater
 ## GAN
 
 1. Simple_GAN.ipynb : MNIST data learning <br/>
-Initial painting : ![image](https://github.com/ricky40403/LearningDeep/blob/master/simpleNetwork/Gan_img/image0.png) <br/>
-After learning : ![image](https://github.com/ricky40403/LearningDeep/blob/master/simpleNetwork/Gan_img/image97600.png) <br/>
+Initial painting : <br/>
+![image](https://github.com/ricky40403/LearningDeep/blob/master/simpleNetwork/Gan_img/image0.png) <br/>
+After learning : <br/>
+![image](https://github.com/ricky40403/LearningDeep/blob/master/simpleNetwork/Gan_img/image97600.png) <br/>
 
 2. Pikachu.ipynb : Learn to draw Pikachu (images from google)<br/>
 May cause by the mess of the learning images, the pikachu learned by GAN change into different sahpes <br/>
