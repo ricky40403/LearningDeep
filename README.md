@@ -25,3 +25,4 @@ Initial painting : ![image](https://github.com/ricky40403/LearningDeep/blob/mast
 First form : ![image](https://github.com/ricky40403/LearningDeep/blob/master/simpleNetwork/pikachu_img/image10000.png) <br/>
 Second form : ![image](https://github.com/ricky40403/LearningDeep/blob/master/simpleNetwork/pikachu_img/image21000.png) <br/>
 Final learning : ![image](https://github.com/ricky40403/LearningDeep/blob/master/simpleNetwork/pikachu_img/image99900.png) <br/>
+gif : ![image](https://github.com/ricky40403/LearningDeep/blob/master/simpleNetwork/pikachu_img/pikachu.gif) <br/>
